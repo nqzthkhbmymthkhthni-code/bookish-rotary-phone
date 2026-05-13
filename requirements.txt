@@ -1,0 +1,13 @@
+cloudscraper
+requests
+phonenumbers
+beautifulsoup4
+pyTelegramBotAPI
+pycountry
+requests
+httpx
+pyTelegramBotAPI
+telethon
+pyrogram
+tgcrypto
+flask
